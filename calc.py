@@ -9,8 +9,7 @@ def add(x, y):
     Returns:
     int/float: The sum of x and y
     """
-    # TODO: Implement this function
-    pass
+    return x + y
 
 
 def subtract(x, y):
